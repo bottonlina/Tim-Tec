@@ -1,0 +1,14 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro idade
+		cadeia nome
+		escreva("Digite seu nome")
+		leia(nome)
+		escreva("Digite a idade")
+		leia(idade)
+		escreva("A idade de", nome, "é", idade)
+	}
+}
