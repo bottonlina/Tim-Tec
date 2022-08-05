@@ -1,0 +1,11 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro idade
+		escreva("Digite a idade?")
+		leia(idade)
+		escreva("A idade informada foi: ",idade)
+	}
+}
