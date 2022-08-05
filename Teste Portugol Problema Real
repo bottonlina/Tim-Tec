@@ -1,0 +1,19 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real lata1, litros1, unidade1, m2, multiplicacao, divisao
+		lata1 = 5
+		litros1 = 3
+		unidade1 = 19
+		m2 = 15 * 5
+		multiplicacao = lata1 * litros1
+		escreva("Quantos m2 posso pintar com 1 lata? =  "  , multiplicacao)
+		divisao = m2 / multiplicacao
+		escreva("Quantos latas vou usar? =  "  , divisao)
+		multiplicacao = lata1 * unidade1
+		escreva("Quanto vou pagar em reais de tinta? =  "  , multiplicacao)
+		
+	}
+}
