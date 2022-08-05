@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		real nota1, nota2, soma, media
+		nota1 = 8.5
+		nota2 = 9.5
+		soma = nota1 + nota2
+		media = soma / 2
+		escreva("Media =  " ,  media)
+	}
+}
